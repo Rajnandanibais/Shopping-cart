@@ -1,2 +1,2 @@
 # shopping--cart
- shopping cart with react and redux
+ shopping cart using react and redux
